@@ -31,12 +31,12 @@ adresinden erişebilirsiniz.
 - Hipotez Testi
 
 ### Projeyi Kendi Bilgisayarımda Nasıl Çalıştırırım ?
-Proje dosyalarını indirdikten sonra klasöre konumlanın. Ardından, 
+Proje dosyalarını indirdikten sonra klasöre konumlanın. Ardından:
 ```
 npm i
 ```
 komutu ile projenin bağımlı olduğu paketleri indiriniz.
-Ardından,
+Ardından:
 ```
 npm start
 ```
